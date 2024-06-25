@@ -16,11 +16,11 @@
 - **이진혁** : 
 
 ## ⚙️ 기술 스택
-- **Server** : AWS EC2
+<!-- - **Server** : AWS EC2
 - **Crawling** : Python
 - **자연어 처리** : OpenAI
 - **DB** : Mysql
-- **Web** : Spring Boot
+- **Web** : Spring Boot -->
 - **아이디어 회의** : Discord, Github
 
 
